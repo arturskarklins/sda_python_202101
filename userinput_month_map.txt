@@ -1,0 +1,7 @@
+Task: user input() number, check if 1 - 12 -> error, None, wrong number
+Use dict { '1': 'January', }
+
+user input:1  -> January
+user input: 10 -> Octorber
+user input: What? -> please, input valid number 1-12
+user input 0/13 -> input valid number in range 1-12
